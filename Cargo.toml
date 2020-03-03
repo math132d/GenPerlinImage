@@ -11,4 +11,4 @@ clap = "2.33.0"
 image = "0.22.4"
 
 [dependencies.rust_perlin]
-path = "../rust_perlin"
+git = "https://github.com/math132d/rust_perlin"
