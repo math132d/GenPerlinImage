@@ -22,7 +22,7 @@ There are downloads availible for:
 
 #### Build yourself
 
-To get the program clone the repository to a directory of your choice.
+To get the program, clone the repository to a directory of your choice.
 ```sh
 $ git clone https://github.com/math132d/GenPerlinImage.git
 $ cd ./GenPerlinNoise/
