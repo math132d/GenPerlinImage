@@ -15,8 +15,8 @@ $ ./perlin_image 256 256 image.png -f 6 -o 4
 
 There are downloads availible for:
 
-* [Windows](/release/image_perlin.exe)
-* [Linux](/release/image_perlin)
+* [Windows](../../raw/master/release/perlin_image.exe)__(coming soon)__
+* [Linux](../../raw/master/release/perlin_image)
 
 #### Build yourself
 
