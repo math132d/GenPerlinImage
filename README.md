@@ -1,6 +1,8 @@
 ## GenPerlinImage
 __A simple rust program to generate images from perlin noise.__ This project was originally a part of [another](https://github.com/math132d/rust_perlin) project. But were split up to better utilize [rust_perlin](https://github.com/math132d/rust_perlin) as just a library.
 
+![f4o1](/examples/f4o1.png) ![f2o8](/examples/f2o8.png) ![f16o4](/examples/f16o4.png)
+
 ### Example of use
 You can run the program using the following command
 ```sh
