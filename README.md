@@ -17,7 +17,7 @@ $ ./perlin_image 256 256 image.png -f 6 -o 4
 
 There are downloads availible for:
 
-* [Windows](../../raw/master/release/perlin_image.exe)__(coming soon)__
+* [Windows](../../raw/master/release/perlin_image.exe)
 * [Linux](../../raw/master/release/perlin_image)
 
 #### Build yourself
@@ -30,7 +30,7 @@ $ cd ./GenPerlinNoise/
 
 And compile the program.
 
-_(For this step you should have rust and cargo installed. see [getting started](https://www.rust-lang.org/learn/get-started))_
+_(For this step you should have rust and cargo installed. See [getting started](https://www.rust-lang.org/learn/get-started))_
 ```sh
 $ cargo build --release
 ```
